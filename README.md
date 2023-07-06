@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @L1Chenxv
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Here is my Blog [https://l1chenxv.github.io/](https://l1chenxv.github.io/)
+- Thank u for watching.
 
 <!---
 L1Chenxv/L1Chenxv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
